@@ -1,0 +1,19 @@
+# Python specific
+__pycache__/
+
+# Virtual environment
+env/
+
+# Visual Studio Code specific
+.vscode/
+
+# IDE or text editor settings (e.g., for PyCharm, Sublime Text, etc.)
+.idea/
+*.code-workspace
+*.iml
+
+# Ignore compiled Python files
+*.pyc
+
+# Logs
+*.log
